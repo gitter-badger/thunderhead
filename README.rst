@@ -71,3 +71,8 @@ Releases
     Released April 16th 2015 `0.4.3 <https://pypi.python.org/pypi/thunderhead/0.4.3>`_
 
 
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/michaelrice/thunderhead
+   :target: https://gitter.im/michaelrice/thunderhead?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
